@@ -1,0 +1,45 @@
+{
+    "api_keys": [
+        {
+            "location": {
+                "name": "New Delhi",
+                "region": "Delhi",
+                "country": "India",
+                "lat": 28.6,
+                "lon": 77.2,
+                "tz_id": "Asia/Kolkata",
+                "localtime_epoch": 1713343897,
+                "localtime": "2024-04-17 14:21"
+            },
+            "current": {
+                "last_updated_epoch": 1713343500,
+                "last_updated": "2024-04-17 14:15",
+                "temp_c": 34,
+                "temp_f": 93.2,
+                "is_day": 1,
+                "condition": {
+                    "text": "Sunny",
+                    "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+                    "code": 1000
+                },
+                "wind_mph": 11.9,
+                "wind_kph": 19.1,
+                "wind_degree": 290,
+                "wind_dir": "WNW",
+                "pressure_mb": 1009,
+                "pressure_in": 29.8,
+                "precip_mm": 0,
+                "precip_in": 0,
+                "humidity": 15,
+                "cloud": 0,
+                "feelslike_c": 32,
+                "feelslike_f": 89.6,
+                "vis_km": 6,
+                "vis_miles": 3,
+                "uv": 9,
+                "gust_mph": 16.7,
+                "gust_kph": 26.9
+            }
+        }
+    ]
+}
